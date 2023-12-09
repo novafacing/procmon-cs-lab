@@ -1,0 +1,6 @@
+1. Connect actions for list/tree toggling.
+2. Connect action for Exporting current state.
+3. Add utilization % for each core (In Progress)
+4. Add graphs for clock speed and RAM %.
+5. Add run process action for execution of arbitrary processes with args.
+
